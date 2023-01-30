@@ -25,6 +25,7 @@ This data demonstrates that this bike-sharing program is a good business decisio
 Further analysis could include two more pieces of information:
 
   1). An analysis done on cost & revenue
+  
   2). An analysis done on age (ie. can CitiBike be marketed to teenagers, or just adults who are commuting to work?)
   
 ## Documents
